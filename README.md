@@ -1,5 +1,5 @@
 # tratamento-de-dados
-Covensor de Moedas.
+conversor de Moedas.
 Cotação vinda da API do Banco Central
 
    https://dadosabertos.bcb.gov.br/
